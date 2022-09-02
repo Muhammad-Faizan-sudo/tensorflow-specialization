@@ -1,0 +1,17 @@
+Tensorflow course
+week1 
+L1 
+	1. Functional Api, 
+	2. Sequential api
+	4. Block diagram of functional api
+	3. example of functional api
+	
+L2
+	1. double bracket syntax for functional apis
+	2. Declaring and stacking layers
+
+L3 
+	1. Branching model
+	2. how to create the model with multiple inputs and outputs.
+	
+
